@@ -6,7 +6,7 @@ The goal is to predict how many bikes are needed at a certain time, based on inf
 ## Dataset
 The dataset used is from [Kaggle](https://www.kaggle.com/c/bike-sharing-demand/submissions).
 
-## Analysis
+## Descriptive analysis
 - [Explorative Data Analysis](https://github.com/lorenanda/bike-demand-prediction/blob/main/project03_eda.ipynb)
 - *Tools*: pandas, datetime, seaborn, matplotlib 
 
