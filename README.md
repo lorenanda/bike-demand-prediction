@@ -12,5 +12,9 @@ The dataset used is from [Kaggle](https://www.kaggle.com/c/bike-sharing-demand/s
 
 ## Regression models
 - Linear Regression (R²: 0.66)
-- Random Forest Regressors (RMSLE score: 0.47 / 0.49 in the Kaggle competition)
+- Random Forest Regressor (RMSLE score: 0.47 / 0.49 in the Kaggle competition)
+- Gradient Boosting Regressor (RMSLE: 0.09)
+- Support Vector Regressor (RMSLE: 0.20)
 - *Tools*: scikitlearn, GridSearchCV, TPOT
+
+![predictions](https://github.com/lorenanda/bike-demand-prediction/blob/main/predictions.svg)
